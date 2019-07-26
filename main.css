@@ -1,0 +1,13 @@
+.box{
+    width:100px;
+    height:100px;
+    background-color: red;
+    border-color: white;
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+    
+}
+.box:hover{
+    transform: translateX(100%) 
+    
+}
